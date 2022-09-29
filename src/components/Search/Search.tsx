@@ -18,7 +18,7 @@ export const Search = ({onSubmit, hasError}: SearchProps) => {
         event.preventDefault();
         const text = event.currentTarget.username.value;
 
-        if (text) {
+        if (text.trim()) {
             onSubmit(text)
             event.currentTarget.reset()
         }
@@ -44,7 +44,6 @@ export const Search = ({onSubmit, hasError}: SearchProps) => {
                 )}
                 <Button>Search</Button>
             </div>
-            Search Component
         </form>
 
     )
