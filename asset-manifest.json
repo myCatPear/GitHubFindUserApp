@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GitHubFindUserApp/static/css/main.b189afa9.css",
+    "main.js": "/GitHubFindUserApp/static/js/main.0a24659c.js",
+    "static/media/icon-sun.svg": "/GitHubFindUserApp/static/media/icon-sun.c3177fa453380a8147df081ec10c2789.svg",
+    "static/media/icon-website.svg": "/GitHubFindUserApp/static/media/icon-website.cf4904e442232792159e0e1bd2d500aa.svg",
+    "static/media/icon-company.svg": "/GitHubFindUserApp/static/media/icon-company.6331bb91a37d52462978487317f0c6e9.svg",
+    "index.html": "/GitHubFindUserApp/index.html",
+    "static/media/icon-twitter.svg": "/GitHubFindUserApp/static/media/icon-twitter.4fcae7ca106860a363d667535442c085.svg",
+    "static/media/icon-moon.svg": "/GitHubFindUserApp/static/media/icon-moon.f5076b814caae9443a0b8ee24682ed13.svg",
+    "static/media/icon-search.svg": "/GitHubFindUserApp/static/media/icon-search.0cc0c98424cc75d5e1dfbb9e3abb6785.svg",
+    "static/media/icon-location.svg": "/GitHubFindUserApp/static/media/icon-location.f6d18983ab4be8b3314d51c208fba4d4.svg",
+    "main.b189afa9.css.map": "/GitHubFindUserApp/static/css/main.b189afa9.css.map",
+    "main.0a24659c.js.map": "/GitHubFindUserApp/static/js/main.0a24659c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b189afa9.css",
+    "static/js/main.0a24659c.js"
+  ]
+}
