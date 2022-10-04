@@ -1,1 +1,1 @@
-# TypeScript курс. Проект GitHub user finder# GitHubFindUserApp
+# https://mycatpear.github.io/GitHubFindUserApp
